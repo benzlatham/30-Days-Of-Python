@@ -17,4 +17,5 @@ print(type({
 x = (2 - 10) ** 2
 y = (3 - 8) ** 2
 print((x + y)**0.5)
+# One Line Version
 print(((2 - 10) ** 2 + (3-8) ** 2) ** 0.5)
